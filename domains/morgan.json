@@ -1,0 +1,11 @@
+{
+  "description": "Morgan's is-a.dev domain",
+  "owner": {
+    "username": "m-sterling",
+    "email": "morgan.rose.sterling@gmail.com",
+    "discord": "morgan_rose_xo"
+  },
+    "record": {
+        "CNAME": "msterling.dev"
+    }
+}
